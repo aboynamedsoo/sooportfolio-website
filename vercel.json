@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/work", "destination": "https://next.frame.io/share/da5ab601-3bb1-4247-a5c1-37b8080ff498/reel/6bf2f8de-c525-4485-a14b-7a26f04bea2c" },
+    { "source": "/_next/:path*", "destination": "https://next.frame.io/_next/:path*" }
+  ]
+}
